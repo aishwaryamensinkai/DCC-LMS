@@ -14,7 +14,11 @@ Deployment On Firebase
     Then you need to select,
 
     ? Are you ready to proceed? `Yes`
-    ? Which Firebase CLI features do you want to set up for this folder? Press Space to select features, then Enter to confirm your choices. `Hosting: Configure and deploy Firebase Hosting sites`
+    ? Which Firebase CLI features do you want to set up for this folder? 
+    
+    Press Space to select features, then Enter to confirm your choices. 
+    
+    `Hosting: Configure and deploy Firebase Hosting sites`
 
     === Project Setup
 
@@ -48,8 +52,8 @@ Deployment On Firebase
 
 Hosting URL: https://library-management-syste-61174.web.app
 
-For Login use
+#### For Login use
 
-Email address : dcc@gmail.com
+Email address : `dcc@gmail.com`
 
-Password : 123456 
+Password : `123456 `
