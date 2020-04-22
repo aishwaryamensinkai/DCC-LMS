@@ -1,7 +1,7 @@
 # DCC-LMS
 Deployment On Firebase 
 
-###Steps
+### Steps
 
 1.Run `npm install -g firebase-tools` .
 
@@ -49,5 +49,7 @@ Deployment On Firebase
 Hosting URL: https://library-management-syste-61174.web.app
 
 For Login use
+
 Email address : dcc@gmail.com
+
 Password : 123456 
