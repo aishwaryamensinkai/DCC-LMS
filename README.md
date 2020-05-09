@@ -50,7 +50,7 @@ Deployment On Firebase
 
 5.Run `firebase deploy` to deploy on firebase.
 
-Hosting URL: https://library-management-syste-61174.web.app
+Hosting URL: https://library-management-syste-61174.firebaseapp.com/
 
 #### For Login use
 
